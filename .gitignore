@@ -12,7 +12,10 @@
 # misc
 .DS_Store
 .env
+.vscode
+.firebase
+.firebaserc
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+firebase.json
